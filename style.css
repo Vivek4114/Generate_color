@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+h3{
+    color: black;
+    size: 25px;
+    margin: 15px;
+    text-align: center;
+
+}
+
+
+div{
+    border: 2px solid black;
+    height: 200px;
+    width: 650px;
+    text-align: center;
+    margin: auto;
+    
+}
